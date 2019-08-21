@@ -1,6 +1,9 @@
 ### Financial Fraud Detection using Decision Tree & RandomForest Classifier
 <br>
-Along with the great increase in online mobile money transactions, fraud has become increasingly rampant in recent years. Fraud is one of the major causes of great financial losses and financial institutions are advancing their capability to detect fraud. The objective of this project is to develop machine learning model to detect fraud.
+Along with the great increase in online mobile money transactions, fraud has become increasingly rampant in recent years. 
+Fraud is one of the major causes of great financial losses and financial institutions are advancing their capability to detect fraud.
+The objective of this project is to develop machine learning model to detect mobile money transaction fraud and verify whether balancing the dataset helps in improving the predictability.
+
 <br>
 In this notebook, we will showcase the use of decision tree and Random Forest ML models to perform financial fraud detection. This project is done as a group for SCS_3253_029 Machine Learning in UofT for DataScience
 
@@ -16,8 +19,10 @@ Satish Subramanian <br>
 
 ### Introduction
 
-Along with the great increase in online mobile money transactions, fraud has become increasingly rampant in recent years. Fraud is one of the major causes of great financial losses and financial institutions are advancing their capability to detect fraud.
-The objective of this project is to develop machine learning model to detect fraud.
+Along with the great increase in online mobile money transactions, fraud has become increasingly rampant in recent years. 
+Fraud is one of the major causes of great financial losses and financial institutions are advancing their capability to detect fraud.
+The objective of this project is to develop machine learning model to detect mobile money transaction fraud and verify whether balancing the dataset helps in improving the predictability.
+
 
 In this notebook, we will showcase the use of decision tree and  Random Forest ML models to perform financial fraud detection.
 
