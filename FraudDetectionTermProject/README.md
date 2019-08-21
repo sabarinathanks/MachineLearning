@@ -1,4 +1,4 @@
-### Financial Fraud Detection using Decision Tree & RandomForest Classifier
+### Financial Fraud Detection using Machine Learning model
 <br>
 Along with the great increase in online mobile money transactions, fraud has become increasingly rampant in recent years. 
 Fraud is one of the major causes of great financial losses and financial institutions are advancing their capability to detect fraud.
@@ -7,7 +7,9 @@ The objective of this project is to develop machine learning model to detect mob
 <br>
 In this notebook, we will showcase the use of decision tree and Random Forest ML models to perform financial fraud detection. This project is done as a group for SCS_3253_029 Machine Learning in UofT for DataScience
 
-Disclaimer
+<br>
+
+###Disclaimer
 This project was conduct for University of Toronto - School of Continuing Studies (SCS) as part of the Machine Learning 3253 Course. 
 
 ### Submitted By:
