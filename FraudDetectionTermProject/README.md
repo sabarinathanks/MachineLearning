@@ -78,3 +78,4 @@ By performing classification on as-is data and by assigning weight, we are reduc
 The recall rate (i.e., True Positive Rate) has also increased from ~1150 to ~1650 which indicates that fraud prediction became accurate. 
 
 
+https://youtu.be/EVI_kAK71Wo
